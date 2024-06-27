@@ -1,4 +1,4 @@
-FROM buildpack-deps:bookworm-scm@sha256:26f797741018701856083d5936027cf8433ec952fac9be25a45097c1ed5661d3
+FROM buildpack-deps:bookworm-scm@sha256:9c9da38cd41e7bf8db601c6dc3dc5759131af3a81997330c4df0966e4bcaab3b
 
 # renovate: datasource=github-releases depName=mikefarah/yq
 ARG YQ_VERSION=v4.44.2
