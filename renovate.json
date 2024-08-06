@@ -51,7 +51,7 @@
     },
     {
       "semanticCommitType": "chore",
-      "matchPackagePatterns": [
+      "matchPackageNames": [
         "*"
       ]
     }
