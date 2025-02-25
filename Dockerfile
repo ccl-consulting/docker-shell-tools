@@ -1,4 +1,4 @@
-FROM buildpack-deps:bookworm-curl@sha256:104f8217967876111a4e8f72495f5f0989a2d6b9c2b91622ddf66e7371df6e36
+FROM buildpack-deps:bookworm-curl@sha256:740b325a6e53a176aac5773fd9fdac43b96f7d2ecd8d262fa679bd2bbe4fdbd6
 
 RUN \
 	apt-get update && \
