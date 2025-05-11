@@ -8,7 +8,7 @@ RUN \
 	rm -rf /var/lib/apt/lists/*
 
 # renovate: datasource=github-releases depName=mikefarah/yq
-ARG YQ_VERSION=v4.44.5
+ARG YQ_VERSION=v4.45.4
 
 RUN \
   mkdir -p /usr/local/bin && \
